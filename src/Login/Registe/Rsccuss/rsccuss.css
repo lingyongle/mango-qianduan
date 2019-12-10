@@ -1,0 +1,32 @@
+.main{
+    background-color: indianred;
+    width: 2000px;
+    height: 1000px;
+    font-size: xx-large;
+}
+.t{
+    background-color: steelblue;
+    width: 500px;
+    height: 400px;
+    font-size: 100px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    top: -700px;
+}
+.f{
+    margin: 0 auto;
+    position:relative;
+    height:20px;
+    width: 20px;
+    position:absolute;
+    top:50%; 
+    margin-top:10px;
+    right: 25%;
+}
+.photo{
+    width: 1850px;
+    height: 1000px;
+    position: relative;
+    left: -1000;
+}

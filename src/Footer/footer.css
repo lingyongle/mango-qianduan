@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Footer{
+    position: relative;
+    margin: 0 auto;
+    width: 1200px; 
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+}

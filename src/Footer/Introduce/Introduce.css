@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+.all{
+    background-image: url(\06a934d3472856257d08b0981c5666af.jpg);
+    height: 1000px;
+}
+
+.top{
+    font-size: 100px;
+    color: #000;
+    font-family: "宋体";
+   
+}
+.type{
+    
+    
+    font-size:60px;
+    font-family:"宋体";
+    
+}

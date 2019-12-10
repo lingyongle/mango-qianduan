@@ -1,0 +1,66 @@
+/* .main {	
+    height: 719px;
+    width: 100px;
+    background-image: url(/react/react-mango/src/Login/bgi/3.jpg);
+    background-repeat: no-repeat;	
+    background-position: center center;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+} */
+
+.k1{	
+    height: 120px;
+    width: 500px;
+    background-color: rgb(104, 85, 216) ;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+.k2{	
+    height: 120px;
+    width: 500px;
+    background-color: rgb(104, 102, 204) ;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+
+.d {	
+    height: 120px;
+    width: 500px;
+    background-color: #66CCCC ;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+    
+}
+.y {	
+    height: 120px;
+    width: 500px;
+    background-color: #66CCCC;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+.m {	
+    width: 500px;	
+    height: 100px;
+    background-color: #66CCCC;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+.w {	
+    width: 500px;	
+    height: 100px;
+    background-color: #66CCCC;
+    text-align: center;
+    position: relative;
+    margin: 0 auto;
+}
+.photo{
+    width: 1850px;
+    height: 1500px;
+
+}

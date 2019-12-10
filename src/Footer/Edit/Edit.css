@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.div1{
+    font-size: 50px;
+    color: rgb(240, 240, 34);
+}
+.Edit table{
+    width: 400px;
+    height:64px;
+    background-color: rgb(164, 231, 28);
+    justify-content: space-around;
+    color:rgb(14, 13, 13);    
+    margin: 0% auto;
+}
+.Edit table tr{
+    width: 320px;
+    height: 64px;
+    background-color:rgb(199, 253, 91);
+    font-style: unset;
+}
+.input5{
+    height: 200px;
+    width: 100px;
+}

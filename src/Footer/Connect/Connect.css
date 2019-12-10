@@ -1,0 +1,18 @@
+*{
+    margin: 0% ;
+    padding: 0%;
+}
+.Connect h2{
+    height: 50px;
+    width: 300px;
+    margin: 0% auto ;
+    text-align: middle
+}
+
+.Connect table {
+    height: 200px;
+    width: 400px;
+    margin: 0% auto;
+    background-color: rgb(106, 106, 245);
+
+}

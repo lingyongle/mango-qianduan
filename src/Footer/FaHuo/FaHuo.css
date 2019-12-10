@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.FaHuo{
+    width: 1200px;
+    height:100%;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    justify-items: center;
+    color:white;    
+}

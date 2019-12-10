@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.My{
+    height:640px;
+    width: 640px;
+    border-color: black;
+    margin: 0% auto;
+}
+.My3{
+    height: 64px;
+    margin: 0% auto ;
+    text-align: center;
+    color: black;
+    background-color:yellow;
+    font-size:50px;
+}
+.My2{
+        width: 640px;
+        height:480px;
+        background-color: rgb(164, 231, 28);
+        
+        color:white;    
+        margin: 0% auto;
+}
+.My2 ul{
+    font-size: 20px;
+    height: 64px;
+    width: 640px;
+}
+.My2 li{
+   
+   text-indent:2em;
+}
+.Icon{
+
+    position: relative;
+    right: 10px; 
+}
