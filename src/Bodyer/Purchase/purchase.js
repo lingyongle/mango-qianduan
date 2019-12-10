@@ -7,7 +7,7 @@ export default class purchase extends React.Component{
     render(){
         return(
             <div className={Purchasecss.all}>
-                <div className={Purchasecss.header}>填写订单</div>
+                <div className={Purchasecss.header}>写订单</div>
                 <br/>
                 <div className={Purchasecss.body}>
                    <div>收货人信息</div>
