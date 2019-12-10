@@ -10,7 +10,7 @@ export default class purchase extends React.Component{
                 <div className={Purchasecss.header}>填写订单</div>
                 <br/>
                 <div className={Purchasecss.body}>
-                   <div>收货人信息：</div>
+                   <div>收货人信息</div>
                    <br/>
                    <div><strong>支付方式</strong>：<label><input type="checkbox" name="zhifubao" value=""/><Icon type="alipay-circle"  />支付宝支付</label>
                    <label><input type="checkbox" name="wechat" value=""/><Icon type="wechat" />微信支付</label>
