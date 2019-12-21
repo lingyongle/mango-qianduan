@@ -2,39 +2,3 @@
     margin: 0%;
     padding: 0%;
 }
-.Address{
-    height: 320px;
-    width:   640px; 
-     /* justify-content: space-around; */
-    color:black;
-    margin:  0 auto;
-    border: 1px  black;
-}
-.Add{
-
-    text-align: center;
-    font-size: 30px;
-    background-color: yellow;
-}
-.Address2{
-   position: relative;
-    position:absolute;
-    top:100px;
-    left: 344px; 
-    width: 640px;
-    height: 100px;
-    margin: 0% auto;
-   
-}
-.Address2 input{
-    font-size:15px;
-    
-}
-.Address2 span{
-    text-indent:2em;
-    color: chartreuse;
-    font-size: 15px;
-}
-.Address2 table{
-    margin: 0% auto;
-}

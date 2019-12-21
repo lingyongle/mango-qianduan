@@ -25,6 +25,9 @@ import ConnectPage from './Footer/Connect/Connect';
 import EndPage from './Footer/End/End';
 import FPasswordPage from './Login/FPassword/fpassword';
 import PurchasePage from './Bodyer/Purchase/purchase';
+import AddressPage from './Footer/Address/Address';
+
+
 
 class IndexPage extends React.Component {
     render() {
@@ -53,7 +56,7 @@ class IndexPage extends React.Component {
                         <Route path='/Lsccuss' component={LsccussPage}></Route>
                         <Route path='/rsccuss' component={RsccussPage}></Route>
                         <Route path='/Fpassword' component={FPasswordPage}></Route>
-                        <Route path='/Purchase' component={PurchasePage}></Route>
+                       <Route path='/Address' component={AddressPage}></Route>
                         
 
                         <Redirect to="/login"></Redirect> 
