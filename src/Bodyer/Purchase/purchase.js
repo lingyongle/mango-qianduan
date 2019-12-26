@@ -20,7 +20,9 @@ export default class purchase extends React.Component{
                 <div className={Purchasecss.footer}>
                     <a>支付</a>
                 </div>
+                
             </div>
+            
         )
     }
 
