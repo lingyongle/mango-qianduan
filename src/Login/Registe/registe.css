@@ -1,4 +1,4 @@
-.main {	
+/* .main {	
     height: 719px;
     width: 100px;
     background-image: url(/mango/src/Login//bgi/4.jpg);
@@ -7,36 +7,50 @@
     text-align: center;
     vertical-align: middle;
     position: relative;
-}
+} */
 .k1{	
-    height: 120px;
+    height: 100px;
     width: 500px;
-    background-color: rgb(104, 102, 204) ;
+    background-color: #b4a551 ;
     text-align: center;
-    position: relative;
+    opacity: 0.8;
+    position: absolute;
     margin: 0 auto;
+    left: 35%;
+    top: 200px;
 }
 .k2{	
     height: 120px;
     width: 500px;
-    background-color: rgb(104, 102, 204) ;
     text-align: center;
     position: relative;
     margin: 0 auto;
-}              
+}        
+.zhuce {
+    opacity: 0.8;
+    position: absolute;
+    left: 35%;
+    top: 200px;
+    background-color: rgba(238, 217, 173, 0.788);
+    height: 300px;
+    width: 500px;
+    /* border: 1px solid black; */
+    border-radius: 10%;
+}      
 .z {	
     height: 120px;
     width: 500px;
-    background-color: rgb(104, 102, 204) ;
+    /* background-color: rgba(238, 217, 173, 0.788) ; */
     text-align: center;
     position: relative;
     margin: 0 auto;
     
 }
 .y {	
+    position: absolute;
     height: 120px;
     width: 500px;
-    background-color:  rgb(104, 102, 204);
+    /* background-color: rgba(238, 217, 173, 0.788); */
     text-align: center;
     position: relative;
     margin: 0 auto;
@@ -44,12 +58,32 @@
 .m {	
     width: 500px;	
     height: 100px;
-    background-color: rgb(104, 102, 204);
+    /* background-color: rgba(238, 217, 173, 0.788); */
     text-align: center;
     position: relative;
     margin: 0 auto;
 }
+.g1{
+    text-decoration: none;
+    position: absolute;
+    left: 50px;
+    bottom: 20px;
+    color: black;
+    height: 40px;
+    width: 80px;
+    top: 30px;
+}
+.g2{
+    text-decoration: none;
+    position: absolute;
+    right: 40px;
+    bottom: 20px;
+    color: black;
+    height: 40px;
+    width: 80px;
+    top: 30px;
+}
 .photo{
-    width: 1850px;
-    height: 1000px;
+    width: 100%;
+    height: 728px;
 }

@@ -65,7 +65,7 @@ export default class Goods1Page extends React.Component{
                </div>
                <div className={Goods1css.footer}>
                    <Link to='/Connect'><div className={Goods1css.Icon1}><Icon type="message" style={{ fontSize: '40px' }} />联系商家</div></Link>
-                   <Link to=''><div className={Goods1css.Icon2}><Icon type="plus-circle" style={{ fontSize: '40px' }}/>加入购物车</div></Link>
+                   <Link to='/addGood'><div className={Goods1css.Icon2}><Icon type="plus-circle" style={{ fontSize: '40px' }}/>加入购物车</div></Link>
                    <Link to='/purchase'><div className={Goods1css.Icon3}> <Icon type="paper-clip" style={{ fontSize: '40px' }}/>立即购买</div></Link>
                </div>
             </div>
