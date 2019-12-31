@@ -25,8 +25,10 @@ import ConnectPage from './Footer/Connect/Connect';
 import EndPage from './Footer/End/End';
 import FPasswordPage from './Login/FPassword/fpassword';
 import PurchasePage from './Bodyer/Purchase/purchase';
-import AddressPage from './Footer/Address/Address';
-
+import AddressPage from './Footer/ShouHuo/Address/Address';
+import ShouHuoPage from './Footer/ShouHuo/shouhuo';
+import XiugaiPage from './Footer/ShouHuo/Xiugai/xiugai';
+import ShanchuPage from './Footer/ShouHuo/Shanchu/shanchu';
 
 
 class IndexPage extends React.Component {
@@ -57,6 +59,9 @@ class IndexPage extends React.Component {
                         <Route path='/rsccuss' component={RsccussPage}></Route>
                         <Route path='/Fpassword' component={FPasswordPage}></Route>
                        <Route path='/Address' component={AddressPage}></Route>
+                       <Route path='/ShouHuo' component={ShouHuoPage}></Route>
+                       <Route path='/Xiugai' component={XiugaiPage}></Route>
+                       <Route path='/Shanchu' component={ShanchuPage}></Route>
                         
 
                         <Redirect to="/login"></Redirect> 

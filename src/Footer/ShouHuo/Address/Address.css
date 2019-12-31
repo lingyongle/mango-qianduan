@@ -1,0 +1,19 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.All{
+    width: 100%;
+    height: 875px;
+    background-image: url(".\472493604356358337.jpg");
+    text-align: center;
+}
+.header{
+    font-size: 50px;
+    text-align: center;
+}
+.Body{
+    font-size: 20px;
+    margin: 30px;
+}

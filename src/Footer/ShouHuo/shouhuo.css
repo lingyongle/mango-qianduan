@@ -1,0 +1,11 @@
+*{
+    margin: 0%;
+    padding: 0%;   
+}
+.All{
+    text-align: center;
+    font-size: 50px;
+    font-family: 宋体;
+    background-image: url(".\06a934d3472856257d08b0981c5666af.jpg");
+    height: 875px;
+}

@@ -12,7 +12,7 @@ export default class SetPage extends React.Component {
                     <td><Link to="/Edit">编辑资料</Link></td>
                 </tr>
                 <tr>
-                    <td><Link to="/Address">我的收货地址</Link></td>
+                    <td><Link to="/ShouHuo">编辑收货信息</Link></td>
                 </tr>
                 <tr>
                     <td><Link to="/Safe">账户安全</Link></td>
